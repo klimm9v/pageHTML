@@ -1,0 +1,93 @@
+
+h1 {
+	font-size: 25px;
+	font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    text-align: center;
+
+ }
+
+ .p1 {
+   font-size: 20px;
+   text-align: center;
+
+ }
+
+h2 {
+
+	  font-size: 40px;
+	  font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+
+}
+img {
+  border-radius: 50%;
+  width: 200px; /* задайте нужную вам ширину */
+  height: 200px; /* задайте нужную вам высоту */
+  object-fit: cover; /* этот стиль позволяет сохранить пропорции изображения в круглом контейнере */
+  text-align: center;
+
+
+}
+
+.footer {
+  font-size: 13px;
+
+
+}
+
+h3 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+
+   img {
+  border-radius: 50%;
+  width: 150px; 
+  height: 150px; 
+  object-fit: cover; 
+
+}
+
+ h1 {
+	font-size: 16px;
+	font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+ }
+
+p {
+
+	font-size: 13px;
+	font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+
+}
+
+.p1 {
+  font-size: 12px;
+  font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+
+}
+
+}
+
+
+
+
+
